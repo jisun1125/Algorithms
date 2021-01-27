@@ -1,2 +1,4 @@
 # algorithm-problem-solving
-Algorithms
+Algorithms with Python
+
+Python version: >= 3.6
