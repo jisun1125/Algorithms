@@ -9,7 +9,7 @@ dy = [0, 0, -1, 1]
 
 def bfs():
     q = deque()
-    q.append([0, 0, 1])  # [현재 이모티콘 개수, 클립보드 이모티콘 개수]
+    q.append([0, 0, 1]) 
     visited = [[[0] * 2 for _ in range(m)] for _ in range(n)]
     visited[0][0][1] = 1
 
